@@ -1,4 +1,4 @@
-# SQL-Ski-Gear-Store-Management-System
+# SQL-Ski-Gear-Store-System
 
 ## Overview
 This project is a Ski Gear Shop Management System designed to streamline rental operations across three store locations. The system captures rental data across two ski seasons, manages inventory, and automates processes to improve efficiency.
