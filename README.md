@@ -1,5 +1,8 @@
 # SQL-Ski-Gear-Store-System
 
+## Authors
+This project was created by myself, Alice Viegas (20240575), and Bernardo Faria (20240579) under the course Storing and Retrieving Data from the Master's in Data Science and Advanced Analytics with Specialization in Business Analytics. We received a mark of 19.5/20.
+
 ## Overview
 This project is a Ski Gear Shop Management System designed to streamline rental operations across three store locations. The system captures rental data across two ski seasons, manages inventory, and automates processes to improve efficiency.
 
